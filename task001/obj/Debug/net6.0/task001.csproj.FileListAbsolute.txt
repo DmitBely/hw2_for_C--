@@ -1,0 +1,15 @@
+/home/dmitriy/Документы/обучение/C#/hw2/task001/bin/Debug/net6.0/task001
+/home/dmitriy/Документы/обучение/C#/hw2/task001/bin/Debug/net6.0/task001.deps.json
+/home/dmitriy/Документы/обучение/C#/hw2/task001/bin/Debug/net6.0/task001.runtimeconfig.json
+/home/dmitriy/Документы/обучение/C#/hw2/task001/bin/Debug/net6.0/task001.dll
+/home/dmitriy/Документы/обучение/C#/hw2/task001/bin/Debug/net6.0/task001.pdb
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.csproj.AssemblyReference.cache
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.AssemblyInfoInputs.cache
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.AssemblyInfo.cs
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.csproj.CoreCompileInputs.cache
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.dll
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/refint/task001.dll
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.pdb
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/task001.genruntimeconfig.cache
+/home/dmitriy/Документы/обучение/C#/hw2/task001/obj/Debug/net6.0/ref/task001.dll
